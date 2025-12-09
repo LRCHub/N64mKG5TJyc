@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ピグマリオン",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-09T19:36:45.370201Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ピグマリオン",
+      "artist": "MARY",
+      "has_synced": false,
+      "path": "select/01_ピグマリオン_MARY.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ピグマリオン",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/02_ピグマリオン_UVERworld.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピグマリオン",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_ピグマリオン_UVERworld.txt"
+    }
+  ]
+}
